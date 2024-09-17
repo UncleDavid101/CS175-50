@@ -1,3 +1,6 @@
+#name_printer.py
+#David Thomas
+
 def name_in_box():
     name = input("Enter your name: ")
     print("+" + "-" * (len(name) + 2) + "+")
